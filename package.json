@@ -24,5 +24,6 @@
     ]
   },
   "icon": "./assets/cattleya.png",
+  "publisher": "patrickfatrick",
   "repository": "https://github.com/patrickfatrick/cattleya-theme-vscode"
 }
