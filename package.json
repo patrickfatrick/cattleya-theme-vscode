@@ -1,0 +1,28 @@
+{
+  "name": "cattleya-theme",
+  "displayName": "Cattleya Theme",
+  "description": "Light and dark themes to make you think you're outside on a lovely day rather than staring at tiny dots on a small screen in a half-lit room",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cattleya Light",
+        "uiTheme": "vs",
+        "path": "./themes/Cattleya-light-color-theme.json"
+      },
+      {
+        "label": "Cattleya Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cattleya-dark-color-theme.json"
+      }
+    ]
+  },
+  "icon": "./assets/cattleya.png",
+  "repository": "https://github.com/patrickfatrick/cattleya-theme-vscode"
+}
