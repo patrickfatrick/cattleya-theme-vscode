@@ -566,7 +566,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#FFFCF6"
 			}
 		},
 		{
@@ -702,7 +702,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#FF9A69"
 			}
 		},
 		{
@@ -740,7 +740,7 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#FFFCF6"
 			}
 		},
 		{
@@ -768,7 +768,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#FFFCF6"
 			}
 		}
 	]
