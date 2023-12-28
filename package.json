@@ -23,7 +23,7 @@
       }
     ]
   },
-  "icon": "./assets/extension.png",
+  "icon": "./assets/extension@2x.png",
   "publisher": "patrickfatrick",
   "repository": "https://github.com/patrickfatrick/cattleya-theme-vscode"
 }
