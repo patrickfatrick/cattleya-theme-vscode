@@ -1,5 +1,4 @@
 {
-	"name": "Cattleya",
 	"colors": {
 		"activityBar.background": "#382B4B",
 		"activityBar.border": "#5B506A",
@@ -13,7 +12,7 @@
 		"dropdown.border": "#5B506A",
 		"editor.background": "#15062B",
 		"editor.findMatchBackground": "#B2877340",
-    "editor.findMatchHighlightBackground": "#B287731A",
+		"editor.findMatchHighlightBackground": "#B287731A",
 		"editor.foreground": "#FFFCF6",
 		"editor.hoverHighlightBackground": "#B287731A",
 		"editor.lineHighlightBackground": "#B287731A",
@@ -30,12 +29,15 @@
 		"editorIndentGuide.background1": "#B2877380",
 		"editorLineNumber.foreground": "#B28773",
 		"editorWidget.background": "#382B4B",
+		"focusBorder": "#3478C6",
 		"input.background": "#5B506A",
 		"input.border": "#5B506A",
 		"list.activeSelectionBackground": "#195F33",
 		"list.activeSelectionForeground": "#FFFCF6",
-		"list.focusOutline": "#195F33",
+		"list.focusAndSelectionOutline": "#195F33",
 		"list.highlightForeground": "#DA70D6",
+		"list.hoverBackground": "#B2877340",
+		"list.inactiveSelectionBackground": "#B2877340",
 		"multiDiffEditor.headerBackground": "#382B4B",
 		"sideBar.background": "#2C1E40",
 		"sideBar.border": "#5B506A",
@@ -48,11 +50,10 @@
 		"titleBar.activeBackground": "#382B4B",
 		"titleBar.border": "#5B506A",
 		"titleBar.inactiveBackground": "#2C1E40",
-		"list.hoverBackground": "#B2877340",
 		"tree.inactiveIndentGuidesStroke": "#B2877380",
-		"list.inactiveSelectionBackground": "#B2877340",
-		"tree.indentGuidesStroke": "#B28773",
+		"tree.indentGuidesStroke": "#B28773"
 	},
+	"name": "Cattleya",
 	"tokenColors": [
 		{
 			"name": "Text",

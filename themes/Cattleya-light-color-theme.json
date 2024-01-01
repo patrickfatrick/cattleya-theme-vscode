@@ -1,9 +1,8 @@
 {
-	"name": "Cattleya",
 	"colors": {
 		"activityBar.background": "#EEEAF3",
 		"activityBar.border": "#B7A8CD",
-    "activityBar.foreground": "#15062B",
+		"activityBar.foreground": "#15062B",
 		"button.background": "#3478C6",
 		"diffEditor.insertedLineBackground": "#45a25860",
 		"diffEditor.insertedTextBackground": "#45a25860",
@@ -12,16 +11,16 @@
 		"dropdown.background": "#F6F5F9",
 		"dropdown.border": "#B7A8CD",
 		"editor.background": "#FFFCF6",
-    "editor.findMatchBackground": "#B2877340",
-    "editor.findMatchHighlightBackground": "#B287731A",
+		"editor.findMatchBackground": "#B2877340",
+		"editor.findMatchHighlightBackground": "#B287731A",
 		"editor.foreground": "#15062B",
-    "editor.hoverHighlightBackground": "#B287731A",
+		"editor.hoverHighlightBackground": "#B287731A",
 		"editor.lineHighlightBackground": "#B287731A",
-    "editor.rangeHighlightBackground": "#B287731A",
+		"editor.rangeHighlightBackground": "#B287731A",
 		"editor.selectionBackground": "#BDEECF",
-    "editor.wordHighlightBackground": "#B2877340",
-    "editor.wordHighlightStrongBackground": "#B2877340",
-    "editor.wordHighlightTextBackground": "#B2877340",
+		"editor.wordHighlightBackground": "#B2877340",
+		"editor.wordHighlightStrongBackground": "#B2877340",
+		"editor.wordHighlightTextBackground": "#B2877340",
 		"editorGroupHeader.tabsBackground": "#E2DCEB",
 		"editorGutter.addedBackground": "#45A258",
 		"editorGutter.deletedBackground": "#E84D49",
@@ -30,29 +29,31 @@
 		"editorIndentGuide.background1": "#B2877380",
 		"editorLineNumber.foreground": "#B28773",
 		"editorWidget.background": "#EEEAF3",
+		"focusBorder": "#3478C6",
 		"input.background": "#F6F5F9",
 		"input.border": "#B7A8CD",
 		"list.activeSelectionBackground": "#BDEECF",
 		"list.activeSelectionForeground": "#15062B",
-		"list.focusOutline": "#BDEECF",
+		"list.focusAndSelectionOutline": "#BDEECF",
 		"list.highlightForeground": "#DA70D6",
+		"list.hoverBackground": "#B2877340",
+		"list.inactiveSelectionBackground": "#B2877340",
 		"multiDiffEditor.headerBackground": "#EEEAF3",
 		"sideBar.background": "#E2DCEB",
 		"sideBar.border": "#B7A8CD",
 		"sideBarSectionHeader.background": "#EEEAF3",
 		"sideBarTitle.foreground": "#15062B",
 		"statusBar.background": "#EEEAF3",
-    "statusBar.foreground": "#15062B",
+		"statusBar.foreground": "#15062B",
 		"tab.border": "#B7A8CD",
 		"tab.inactiveBackground": "#EEEAF3",
 		"titleBar.activeBackground": "#EEEAF3",
 		"titleBar.border": "#B7A8CD",
 		"titleBar.inactiveBackground": "#CCC2DC",
-		"list.hoverBackground": "#B2877340",
 		"tree.inactiveIndentGuidesStroke": "#B2877380",
-		"list.inactiveSelectionBackground": "#B2877340",
 		"tree.indentGuidesStroke": "#B28773"
 	},
+	"name": "Cattleya",
 	"tokenColors": [
 		{
 			"name": "Text",
@@ -168,7 +169,7 @@
 				"variable.object.property",
 				"meta.object.member",
 				"variable.other.property",
-                "variable.other.constant.property"
+				"variable.other.constant.property"
 			],
 			"settings": {
 				"foreground": "#FFA21C"
@@ -392,7 +393,7 @@
 			"name": "Inserted",
 			"scope": [
 				"markup.inserted",
-                "editorGutter.addedBackground"
+				"editorGutter.addedBackground"
 			],
 			"settings": {
 				"foreground": "#45A258"
@@ -402,7 +403,7 @@
 			"name": "Deleted",
 			"scope": [
 				"markup.deleted",
-                "editorGutter.deletedBackground"
+				"editorGutter.deletedBackground"
 			],
 			"settings": {
 				"foreground": "#E84D49"
@@ -412,7 +413,7 @@
 			"name": "Changed",
 			"scope": [
 				"markup.changed",
-                "editorGutter.modifiedBackground"
+				"editorGutter.modifiedBackground"
 			],
 			"settings": {
 				"foreground": "#2458CA"
