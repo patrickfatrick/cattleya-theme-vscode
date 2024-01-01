@@ -2,7 +2,7 @@
   "name": "cattleya-theme",
   "displayName": "Cattleya Theme",
   "description": "Light and dark themes to make you think you're outside on a lovely day rather than staring at tiny dots on a small screen in a half-lit room",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.85.0"
   },
